@@ -4,7 +4,7 @@ title: draft kit
 permalink: /about/
 ---
 
-Some information about you!
+Hi I am Adam and I am looking for the intersection of human psychology and fantasy football.
 
 ### More Information
 
