@@ -6,9 +6,11 @@ excerpt: Click read more to see full 2019 QB rankings
 
 <b>2019 Quarterback Rankings</b>
 <br>
-<p>1. Patrick Mahomes  KC</p>
-<p>2. Aaron Rodgers  GB</p>
-<p>3. Deshaun Watson HOU</p>
+<ol>
+<li>1. Patrick Mahomes  KC</\li>
+<li>2. Aaron Rodgers  GB</li>
+<li>3. Deshaun Watson HOU</li>
+</ol>
 <p>4. Matt Ryan ATL</p>
 <p>5. Cam Newton CAR</p>
 <p>6. Jared Goff LAR</p>
