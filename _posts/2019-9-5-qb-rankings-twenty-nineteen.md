@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019 Quaterback Rankings
+title: 2019 QB Rankings
 ---
 
 <b>2019 Quarterback Rankings</b>
