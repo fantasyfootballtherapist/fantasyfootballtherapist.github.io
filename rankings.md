@@ -1,2 +1,6 @@
+---
+layout: page
+---
 2019 Rankings
-QB rankings (last update 9/5/19)
+<a href="{{ site.baseurl }}/index">QB rankings (last update 9/5/19)
+</a>
