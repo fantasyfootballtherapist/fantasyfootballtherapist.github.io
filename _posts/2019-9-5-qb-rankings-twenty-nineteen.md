@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 2019 QB Rankings
+excerpt: <p>1. Patrick Mahomes  KC</p>
+<p>2. Aaron Rodgers  GB</p>
+<p>3. Deshaun Watson HOU</p>...
 ---
 
 <b>2019 Quarterback Rankings</b>
