@@ -8,12 +8,12 @@ excerpt: Click read more below to see full rankings
     <li>Travis Kelce- KC</li>
     <li>George Kittle- SF</li>
     <li>Zach Ertz PHI</li>
-    <li>Morbi eleifend tortor lacinia sapien sagittis, quis pellentesque felis egestas.</li>
-    <li>Aenean viverra dui quis leo lacinia fringilla.</li>
-    <li>Sed varius lectus ac condimentum egestas.</li>
-    <li>Maecenas faucibus lorem nec lorem posuere, a rhoncus velit porttitor.</li>
-    <li>Proin porta arcu ac elit malesuada pulvinar.</li>
-    <li>Phasellus vitae felis sit amet mi gravida volutpat.</li>
+    <li>O.J. Howard- TB</li>
+    <li>Hunter Henry- SD</li>
+    <li>Evan Engram- NYG</li>
+    <li>Jared Cook- NO</li>
+    <li>Vance McDonald- PIT</li>
+    <li>Austin Hooper- ATL</li>
     <li>Curabitur vulputate urna non efficitur interdum.</li>
     <li>Curabitur dapibus enim in consectetur imperdiet.</li>
     <li>Suspendisse consectetur nibh non condimentum porta.</li>
