@@ -89,6 +89,7 @@ $blue: #83e4e2;
 $green: #a2ed56;
 $yellow: #fddc32;
 $white: #fafafa;
+$gray: #a9a9a9;
 
 
 
@@ -143,7 +144,7 @@ ol.gradient-list {
     position: relative;
     &::before,
     &::after {
-      background: linear-gradient(135deg, $blue 0%,$green 100%);
+      background: linear-gradient(135deg, $blue 0%,$gray 100%);
       border-radius: 1rem 1rem 0 1rem;
       content: '';
       height: 3rem;
@@ -166,12 +167,12 @@ ol.gradient-list {
     }
     @for $i from 1 through 5 {
       &:nth-child(10n+#{$i}):before {
-        background: linear-gradient(135deg, rgba($green, $i * 0.2) 0%,rgba($yellow, $i * 0.2) 100%);
+        background: linear-gradient(135deg, rgba($gray, $i * 0.2) 0%,rgba($yellow, $i * 0.2) 100%);
       }
     }
     @for $i from 6 through 10 {
       &:nth-child(10n+#{$i}):before {
-        background: linear-gradient(135deg, rgba($green, 1 - (($i - 5) * 0.2)) 0%,rgba($yellow, 1 - (($i - 5) * 0.2)) 100%);
+        background: linear-gradient(135deg, rgba($gray, 1 - (($i - 5) * 0.2)) 0%,rgba($yellow, 1 - (($i - 5) * 0.2)) 100%);
       }
     }
     + li {
