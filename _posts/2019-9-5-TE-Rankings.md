@@ -14,7 +14,7 @@ excerpt: Click read more below to see full rankings
     <li>Jared Cook- NO</li>
     <li>Vance McDonald- PIT</li>
     <li>Austin Hooper- ATL</li>
-    <liDavid Njoku- CLE</li> 
+    <li>David Njoku- CLE</li> 
     <li>Jimmy Graham- GB</li>
     <li>Mark Andrews- BAL.</li>
     <li>Delanie Walker TEN</li>
